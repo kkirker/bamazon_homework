@@ -16,4 +16,4 @@ a display of items in stock will be shown with ids, ids are used to select item 
 
 answer the inquire questions, and based on answers app will progress.
 
-cntrl+ c to to exit program at any time. 
+ctrl+ c to to exit program at any time. 
